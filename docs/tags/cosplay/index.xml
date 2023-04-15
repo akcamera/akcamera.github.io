@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AK Portfolio</title>
-    <link>http://akcamera.github.io/</link>
-    <description>Recent content on AK Portfolio</description>
+    <title>cosplay on AK Portfolio</title>
+    <link>http://akcamera.github.io/tags/cosplay/</link>
+    <description>Recent content in cosplay on AK Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 15 Apr 2023 22:50:18 +0900</lastBuildDate><atom:link href="http://akcamera.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Apr 2023 22:50:18 +0900</lastBuildDate><atom:link href="http://akcamera.github.io/tags/cosplay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Genshin impact Kokomi</title>
       <link>http://akcamera.github.io/post/20230415/</link>
@@ -14,15 +14,6 @@
       
       <guid>http://akcamera.github.io/post/20230415/</guid>
       <description> *m:@srtm_cos *p:@AK_camera </description>
-    </item>
-    
-    <item>
-      <title>First post</title>
-      <link>http://akcamera.github.io/post/init-post/</link>
-      <pubDate>Sat, 15 Apr 2023 18:30:07 +0900</pubDate>
-      
-      <guid>http://akcamera.github.io/post/init-post/</guid>
-      <description>rebuild</description>
     </item>
     
   </channel>
