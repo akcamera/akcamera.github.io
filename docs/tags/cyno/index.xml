@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cyno on AK Portfolio</title>
+    <link>https://akcamera.github.io/tags/cyno/</link>
+    <description>Recent content in cyno on AK Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 12 Jul 2023 16:51:40 +0900</lastBuildDate><atom:link href="https://akcamera.github.io/tags/cyno/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyno</title>
+      <link>https://akcamera.github.io/post/20230712/</link>
+      <pubDate>Wed, 12 Jul 2023 16:51:40 +0900</pubDate>
+      
+      <guid>https://akcamera.github.io/post/20230712/</guid>
+      <description>Cyno *m:@macaro_ningen *p:@AK_camera</description>
+    </item>
+    
+  </channel>
+</rss>
