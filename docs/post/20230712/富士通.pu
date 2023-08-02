@@ -1,0 +1,6 @@
+@startuml
+class Enemy {
+    - string name
+    + void Attack()
+}
+@enduml
