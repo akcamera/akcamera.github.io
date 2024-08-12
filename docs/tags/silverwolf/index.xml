@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>silverwolf on AK Portfolio</title>
-    <link>https://akcamera.github.io/tags/silverwolf/</link>
-    <description>Recent content in silverwolf on AK Portfolio</description>
+    <title>Silverwolf on AK Portfolio</title>
+    <link>http://localhost:1313/tags/silverwolf/</link>
+    <description>Recent content in Silverwolf on AK Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 17 Feb 2024 00:53:40 +0900</lastBuildDate><atom:link href="https://akcamera.github.io/tags/silverwolf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Feb 2024 00:53:40 +0900</lastBuildDate><atom:link href="http://localhost:1313/tags/silverwolf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>StarRail: Silver Wolf</title>
-      <link>https://akcamera.github.io/post/20240217/</link>
+      <link>http://localhost:1313/post/20240217/</link>
       <pubDate>Sat, 17 Feb 2024 00:53:40 +0900</pubDate>
       
-      <guid>https://akcamera.github.io/post/20240217/</guid>
+      <guid>http://localhost:1313/post/20240217/</guid>
+      <description>Silver Wolf *m:@nuninuni22 *p:@AK_camera</description>
+    </item>
+    
+    <item>
+      <title>StarRail: Silver Wolf</title>
+      <link>http://localhost:1313/post/20231228/</link>
+      <pubDate>Thu, 28 Dec 2023 14:53:40 +0900</pubDate>
+      
+      <guid>http://localhost:1313/post/20231228/</guid>
       <description>Silver Wolf *m:@nuninuni22 *p:@AK_camera</description>
     </item>
     
